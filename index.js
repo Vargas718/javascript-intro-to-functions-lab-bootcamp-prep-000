@@ -2,4 +2,4 @@ function shout(string){
   string = string.toUpperCase()
   return string
 }
-string === string.t
+string === string.toUpperCase
