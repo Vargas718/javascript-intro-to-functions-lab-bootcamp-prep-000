@@ -9,3 +9,8 @@ function whisper(string){
   string = lowercase
   return lowercase 
 }
+function logWhisper(string){
+  lowercase = string.toLowerCase()
+  string = lowercase
+  return lowercase
+}
